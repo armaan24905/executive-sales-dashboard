@@ -2,7 +2,7 @@
 
 > An interactive, dark-themed business intelligence dashboard built for C-suite decision-making — designed for CEOs and CFOs to explore revenue, profitability, and customer insights in real time.
 
-🔗 **Live Demo:** [https://armaan24905.github.io/executive-sales-dashboard/](https://armaan24905.github.io/executive-sales-dashboard/)
+🔗 **Live Demo:** [https://armaan24905.github.io/executive-sales-dashboard/]([https://github.com/armaan24905/executive-sales-dashboard.git])
 *(will be live once GitHub Pages is enabled on the repo)*
 
 ![Dashboard Preview](screenshot.png)
@@ -69,12 +69,11 @@ open index.html        # or double-click the file
 ## 👤 About the Developer
 
 **Armaan Khan**
-B.Tech, Artificial Intelligence & Data Science — 3rd Year
-CGPA: 8.7
+💻 B.Tech, Artificial Intelligence & Data Science 🚀✨
 
-Passionate about building AI/ML-driven and data-focused projects that bridge technical engineering with real-world business impact. Actively exploring machine learning, data visualization, and full-stack development.
+Passionate about building AI/ML-driven and data-focused projects that bridge technical engineering with real-world business impact 🌍. Actively exploring machine learning 🧠, data visualization 📊, and full-stack development.
 
-📫 Connect with me on [LinkedIn](#) | 💻 [GitHub](https://github.com/armaan24905)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/armaan-saad-120251306?utm_source=share_via&utm_content=profile&utm_medium=member_android) | 💻 [GitHub](https://github.com/armaan24905)
 
 ---
 
