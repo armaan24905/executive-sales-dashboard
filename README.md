@@ -68,7 +68,7 @@ open index.html        # or double-click the file
 
 ## 👤 About the Developer
 
-**Armaan Khan**
+**Armaan Saad**
 💻 B.Tech, Artificial Intelligence & Data Science 🚀✨
 
 Passionate about building AI/ML-driven and data-focused projects that bridge technical engineering with real-world business impact 🌍. Actively exploring machine learning 🧠, data visualization 📊, and full-stack development.
